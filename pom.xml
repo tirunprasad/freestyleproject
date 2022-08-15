@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kenrigtechservices</groupId>
-	<artifactId>FreeStyleProj-1</artifactId>
+	<artifactId>FreeStyleProject</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
-	<name>FreeStyleProj-1</name>
+	<name>FreeStyleProject</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
