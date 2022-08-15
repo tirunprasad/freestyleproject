@@ -1,2 +1,2 @@
 FROM tomcat:8.0.20-jre8
-COPY target/FreeStyleProj*.war /usr/local/tomcat/webapps/freestyleproject.war
+COPY target/FreeStyleProject*.war /usr/local/tomcat/webapps/freestyleproject.war
