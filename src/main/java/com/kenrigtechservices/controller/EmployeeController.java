@@ -12,7 +12,7 @@ public class EmployeeController {
 	@GetMapping("/msg")
 	public String send(Model model) {
 		String msg = "I am from controller";
-		model.addAttribute(msg);
+		model.addAttribute("msg",msg);
 		return "display";
 	}
 }
